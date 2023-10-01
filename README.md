@@ -9,5 +9,5 @@ Assert the name of the first task
 •	Search for the word "project".
 •	Assert the first listed tasks has title "Project skeleton".
 •	Close the app.
-You are free to implement and run the tests in a local instance of Appium with Android Emulator or physical Android device.
+Implement and run the tests in a local instance of Appium with Android Emulator or physical Android device.
 
